@@ -1,0 +1,131 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "jnSBctrtbfjyZCnEY0bHW5JGW5s=",
+			"origin": "github.com/henrylee2cn/teleport/vendor/github.com/gogo/protobuf/proto",
+			"path": "github.com/gogo/protobuf/proto",
+			"revision": "39743132a628046873e72f3b3546b35956b88a29",
+			"revisionTime": "2018-10-29T09:22:28Z"
+		},
+		{
+			"checksumSHA1": "RKqfNsh/krt6J02twUFfLqJDZZM=",
+			"path": "github.com/henrylee2cn/cfgo",
+			"revision": "e6c3cc325b211f7f83b7dae0dd468ed454157d1a",
+			"revisionTime": "2018-04-17T02:48:16Z"
+		},
+		{
+			"checksumSHA1": "FNRteq4LxjXUHMW12XF8jkC3lvg=",
+			"path": "github.com/henrylee2cn/goutil",
+			"revision": "42cee8a7cc8d327ecf1d4663ac574a4a31a94ef9",
+			"revisionTime": "2018-11-05T03:00:48Z"
+		},
+		{
+			"checksumSHA1": "pp0/VSqhgNWntZNkn0dgUkThVQ4=",
+			"path": "github.com/henrylee2cn/goutil/coarsetime",
+			"revision": "42cee8a7cc8d327ecf1d4663ac574a4a31a94ef9",
+			"revisionTime": "2018-11-05T03:00:48Z"
+		},
+		{
+			"checksumSHA1": "iWOkkZt+fDs9in69xNRBSD0D9fc=",
+			"path": "github.com/henrylee2cn/goutil/errors",
+			"revision": "42cee8a7cc8d327ecf1d4663ac574a4a31a94ef9",
+			"revisionTime": "2018-11-05T03:00:48Z"
+		},
+		{
+			"checksumSHA1": "fufp0mVgI+CsVEvbjEB0SVPyMAE=",
+			"path": "github.com/henrylee2cn/goutil/graceful",
+			"revision": "42cee8a7cc8d327ecf1d4663ac574a4a31a94ef9",
+			"revisionTime": "2018-11-05T03:00:48Z"
+		},
+		{
+			"checksumSHA1": "66UvzSYzqhu6MiLJjAAQ5kfuNuo=",
+			"path": "github.com/henrylee2cn/goutil/graceful/inherit_net",
+			"revision": "42cee8a7cc8d327ecf1d4663ac574a4a31a94ef9",
+			"revisionTime": "2018-11-05T03:00:48Z"
+		},
+		{
+			"checksumSHA1": "6Y474hQGZ15Lp2KLUyFjGMk2Kr8=",
+			"path": "github.com/henrylee2cn/goutil/pool",
+			"revision": "42cee8a7cc8d327ecf1d4663ac574a4a31a94ef9",
+			"revisionTime": "2018-11-05T03:00:48Z"
+		},
+		{
+			"checksumSHA1": "Pip1UyHuIHHS8Bto/2NKtM+Z9Y0=",
+			"path": "github.com/henrylee2cn/teleport",
+			"revision": "39743132a628046873e72f3b3546b35956b88a29",
+			"revisionTime": "2018-10-29T09:22:28Z"
+		},
+		{
+			"checksumSHA1": "P+n6gRgojAYa+eyfOn2trq9XrgA=",
+			"path": "github.com/henrylee2cn/teleport/codec",
+			"revision": "39743132a628046873e72f3b3546b35956b88a29",
+			"revisionTime": "2018-10-29T09:22:28Z"
+		},
+		{
+			"checksumSHA1": "0yPTzM8qS3CtIbjFxtFb2WDdsyQ=",
+			"path": "github.com/henrylee2cn/teleport/plugin/binder",
+			"revision": "39743132a628046873e72f3b3546b35956b88a29",
+			"revisionTime": "2018-10-29T09:22:28Z"
+		},
+		{
+			"checksumSHA1": "AFZRt5/DpxVnEeoX+IiaDnLah5Y=",
+			"path": "github.com/henrylee2cn/teleport/plugin/heartbeat",
+			"revision": "39743132a628046873e72f3b3546b35956b88a29",
+			"revisionTime": "2018-10-29T09:22:28Z"
+		},
+		{
+			"checksumSHA1": "qX1iDT/PJtJIm5ke2DBD7k7YMh0=",
+			"path": "github.com/henrylee2cn/teleport/socket",
+			"revision": "39743132a628046873e72f3b3546b35956b88a29",
+			"revisionTime": "2018-10-29T09:22:28Z"
+		},
+		{
+			"checksumSHA1": "aC4iqA/rOOOu9v7xdRqrC8+t+rs=",
+			"path": "github.com/henrylee2cn/teleport/utils",
+			"revision": "39743132a628046873e72f3b3546b35956b88a29",
+			"revisionTime": "2018-10-29T09:22:28Z"
+		},
+		{
+			"checksumSHA1": "wa0+puYB4LRDt0N6MyhvTXzBeWU=",
+			"path": "github.com/henrylee2cn/teleport/utils/color",
+			"revision": "39743132a628046873e72f3b3546b35956b88a29",
+			"revisionTime": "2018-10-29T09:22:28Z"
+		},
+		{
+			"checksumSHA1": "7hhaVdY1chTbx/r+IuL3oM+pIeQ=",
+			"path": "github.com/henrylee2cn/teleport/xfer",
+			"revision": "39743132a628046873e72f3b3546b35956b88a29",
+			"revisionTime": "2018-10-29T09:22:28Z"
+		},
+		{
+			"checksumSHA1": "pCjgV7GqaketZq7JxH7x83ZPnRo=",
+			"origin": "github.com/henrylee2cn/teleport/vendor/github.com/tidwall/gjson",
+			"path": "github.com/tidwall/gjson",
+			"revision": "39743132a628046873e72f3b3546b35956b88a29",
+			"revisionTime": "2018-10-29T09:22:28Z"
+		},
+		{
+			"checksumSHA1": "gEpdu1QrdYgZVliuH3JhGph9TQY=",
+			"origin": "github.com/henrylee2cn/teleport/vendor/github.com/tidwall/match",
+			"path": "github.com/tidwall/match",
+			"revision": "39743132a628046873e72f3b3546b35956b88a29",
+			"revisionTime": "2018-10-29T09:22:28Z"
+		},
+		{
+			"checksumSHA1": "L9z8EDfCdkRxaux08OhqtD9NxUQ=",
+			"path": "github.com/xiaoenai/tp-micro",
+			"revision": "78253925eda08b4fd024018856722cc27c318bd5",
+			"revisionTime": "2018-10-12T16:39:02Z"
+		},
+		{
+			"checksumSHA1": "0eIf9S2wU7EjKgg3qGPKI+Z6RJA=",
+			"origin": "github.com/henrylee2cn/cfgo/vendor/gopkg.in/yaml.v2",
+			"path": "gopkg.in/yaml.v2",
+			"revision": "e6c3cc325b211f7f83b7dae0dd468ed454157d1a",
+			"revisionTime": "2018-04-17T02:48:16Z"
+		}
+	],
+	"rootPath": "microDemo/src"
+}
