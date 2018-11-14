@@ -1,8 +1,8 @@
-package main
+package tp_micro
 
 import (
-	micro "github.com/xiaoenai/tp-micro"
 	tp "github.com/henrylee2cn/teleport"
+	micro "github.com/xiaoenai/tp-micro"
 )
 
 // Arg arg

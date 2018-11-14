@@ -1,8 +1,8 @@
-package main
+package tp_micro
 
 import (
-	micro "github.com/xiaoenai/tp-micro"
 	tp "github.com/henrylee2cn/teleport"
+	micro "github.com/xiaoenai/tp-micro"
 )
 
 func main() {
@@ -11,12 +11,12 @@ func main() {
 		micro.NewStaticLinker(":9090"),
 	)
 	defer cli.Close()
-	
+
 	type Arg struct {
 		A int
 		B int
 	}
-	
+
 	var result int
 	rerr := cli.Call("/p/divide", &Arg{
 		A: 10,
