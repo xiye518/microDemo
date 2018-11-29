@@ -1,4 +1,4 @@
-package tp_micro
+package main
 
 import (
 	tp "github.com/henrylee2cn/teleport"
